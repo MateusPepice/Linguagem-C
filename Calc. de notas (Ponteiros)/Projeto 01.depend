@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1667350534 source:d:\users\mpepice\documents\projeto 01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Aritmetica.h"
+	"ponderada.h"
+
+1667350575 d:\users\mpepice\documents\projeto 01\aritmetica.h
+
+1667350575 d:\users\mpepice\documents\projeto 01\ponderada.h
+
+1672958266 source:c:\users\user\documents\mateus\04 - projetos\sla\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Aritmetica.h"
+	"Ponderada.h"
+
+1672958266 c:\users\user\documents\mateus\04 - projetos\sla\aritmetica.h
+
+1672958266 c:\users\user\documents\mateus\04 - projetos\sla\ponderada.h
+
